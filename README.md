@@ -1,2 +1,2 @@
-# C_Sharp_for_brgginers
+# C_Sharp_for_beginnners
 Learning C# via A. Vasilyev's book
